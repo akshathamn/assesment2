@@ -1,0 +1,139 @@
+.b1
+{
+	width:1511px;
+	height:650px;
+	background-image: url("../images/image2.jpg");
+	background-size: cover;
+	background-color:white;
+}
+img
+{
+	height:600px;
+	width: 800px;
+}
+span {
+	padding: 10px;
+	font-size: 25px;
+	
+}
+#a
+{
+	margin-left: 421px;
+border-bottom: 2px solid white;
+}
+.ab
+{
+	text-align: center;
+	margin-top: 203px;
+	color: white;
+	font-size: 50px;
+}
+.ab1
+{
+	text-align: center;
+	margin-top: -28px;
+	color: white;
+	font-size: 20px;
+}
+button:hover
+{
+
+	background-color:blue;
+}
+.ac
+{
+	
+	border-radius: 50px 50px 50px 50px;
+	margin-left: 700px;
+	background-color:pink;
+}
+.background
+{
+	background-repeat: no-repeat;
+}
+.b2 
+{
+	background-image: url("../images/girl2.jpg");
+	background-size: cover;
+	margin:100px;
+	position: relative;
+}
+.a2
+{
+	height:800px; 
+	width:500px;
+}
+.container {
+  position: absolute;
+  right: 0;
+  height: 415px;
+  margin: 438px;
+  width: 510px;
+  padding: 16px;
+  background-color: #ff0076;
+  margin-right: 260px;
+}
+.cr
+{
+	color: white;
+}
+.he
+{
+	color: white;
+}
+p{
+	color: white;
+}
+
+.br
+{
+	border-radius:50px 50px 50px 50px;
+	background-color: blue;
+	color: white;
+}
+.b3{
+	background-color: pink;
+}
+.a3
+{
+	color:#ff0076; 
+}
+.p3
+{
+	color: gray;
+}
+.grid
+{
+	display: grid;
+	grid-template-columns: 100px 100px 100px 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px 100px;
+	background-color: white;
+	
+	height:500px; 
+	width:500px;
+}
+.grid
+{
+	display: grid;
+	grid-template-columns: 200px 200px 200px 200px;
+	grid-template-rows: 300px 300px 300px 300px
+	grid-row-gap: 20px;
+	grid-column-gap: 20px;
+}
+.pr1
+{
+	width:300px;
+height: 200px;
+}
+/*.grid > div
+{
+	display: grid;
+   grid-template-columns: 100px 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px 100px;
+	
+}*/
+.i1
+{
+	height: 194px;
+    width: 220px;
+}
