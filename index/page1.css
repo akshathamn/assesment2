@@ -48,7 +48,7 @@ button:hover
 {
 	border-radius: 50px 50px 50px 50px;
 	margin-left: 700px;
-	background-color:pink;
+	background-color:#e81050;
 }
 .background
 {
@@ -75,7 +75,7 @@ button:hover
   margin: 438px;
   width: 510px;
   padding: 16px;
-  background-color: #ff0076;
+  background-color: #e81050;
   margin-right: 260px;
 }
 .cr
@@ -86,6 +86,7 @@ button:hover
 {
 	color: white;
 }
+
 p{
 	color: white;
 }
@@ -101,7 +102,7 @@ p{
 }
 .a3
 {
-	color:#ff0076;
+	color:#e81050;
 	margin-left: 100px; 
 }
 .p3
@@ -109,7 +110,6 @@ p{
 	color: gray;
 	margin-left: 100px; 
 }
-
 .grid
 {
 	display: grid;
@@ -229,7 +229,7 @@ p{
 .bc
 {
 	margin-top: 183px;
-	color: #ff0076;
+	color: #e81050;
 	font-size: 50px;
 	margin-left: 170px;
 }
